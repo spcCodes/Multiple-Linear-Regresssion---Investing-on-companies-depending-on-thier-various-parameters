@@ -1,7 +1,7 @@
 # Multiple-Linear-Regresssion---Investing-on-companies-depending-on-thier-various-parameters
 
 
-A clompany wishes to invest on start ups .Based on the data of the 50 start ups that they have they decide to fit a mutiple linear regression model.
+A company wishes to invest on start ups .Based on the data of the 50 start ups that they have they decide to fit a mutiple linear regression model.
 
 The datset contains various attributes as shown below in the figure
 
@@ -26,6 +26,7 @@ The codes are written in the file -- MultipleLInearRegression.py
 Additional Helper files which contains two functions: 
 
 a) BackwardElimination with pvalue 
+
 b) BackwardElimination with pvalue and Adjusted RSquared -- HelperFunctionsMultipleRegression.py
 
 After the model is tarined we find that the model is fitting the data properly and is a better estimate than the simple multiple linear regression model as we have to deal with relatively less number of data attributes.
