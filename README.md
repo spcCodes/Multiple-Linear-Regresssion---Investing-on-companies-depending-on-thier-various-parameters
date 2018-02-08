@@ -19,4 +19,11 @@ We will employ two methods of Multiple Linear regression
 
 The model looks into p value everytime for each attribute and if the p value for a particular attribute is greater than significant value (Here in this case is 0.05), it is deleted and the model is trained again.The process is continued unless we attain the data which has attributes having p value less than significant threshold.
 
+A good document on p value selection is given below 
+[a link](https://www.wikihow.com/Calculate-P-Value)
+
+
+The codes are written in the file -- MultipleLInearRegression.py
+Additional Helper files which contains two functions: a) BackwardElimination with pvalue b) BackwardElimination with pvalue and Adjusted RSquared -- HelperFunctionsMultipleRegression.py
+
 After the model is tarined we find that the model is fitting the data properly and is a better estimate than the simple multiple linear regression model as we have to deal with relatively less number of data attributes.
