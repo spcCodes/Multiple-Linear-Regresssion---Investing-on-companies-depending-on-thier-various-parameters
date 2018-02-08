@@ -3,7 +3,7 @@
 
 A company wishes to invest on start ups .Based on the data of the 50 start ups that they have they decide to fit a mutiple linear regression model.
 
-The datset contains various attributes as shown below in the figure
+The dataset contains various attributes as shown below in the figure
 
 <img src="images/mlr.png" width ="500" >
 
@@ -24,7 +24,7 @@ A good document on p value selection is given [here](https://www.wikihow.com/Cal
 
 The codes are written in the file -- MultipleLInearRegression.py
 
-# Additional Helper files which contains two functions: 
+ Additional Helper files which contains two functions: 
 
 a) BackwardElimination with pvalue 
 
