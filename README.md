@@ -15,7 +15,7 @@ We will employ two methods of Multiple Linear regression
 
 2) Using multiple linear regression using Backward elimination procedure.The steps for backward eliniation are shown in the figure below
 
-<img src="images/backwardElimination.png" width ="500" >
+<img src="images/backwardElimination.png" width ="700" >
 
 The model looks into p value everytime for each attribute and if the p value for a particular attribute is greater than significant value (Here in this case is 0.05), it is deleted and the model is trained again.The process is continued unless we attain the data which has attributes having p value less than significant threshold.
 
