@@ -1,0 +1,1 @@
+# Multiple-Linear-Regresssion---Investing-on-companies-depending-on-thier-various-parameters
