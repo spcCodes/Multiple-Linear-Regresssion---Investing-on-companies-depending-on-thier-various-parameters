@@ -23,6 +23,9 @@ A good document on p value selection is given [here](https://www.wikihow.com/Cal
 
 
 The codes are written in the file -- MultipleLInearRegression.py
-Additional Helper files which contains two functions: a) BackwardElimination with pvalue b) BackwardElimination with pvalue and Adjusted RSquared -- HelperFunctionsMultipleRegression.py
+Additional Helper files which contains two functions: 
+
+a) BackwardElimination with pvalue 
+b) BackwardElimination with pvalue and Adjusted RSquared -- HelperFunctionsMultipleRegression.py
 
 After the model is tarined we find that the model is fitting the data properly and is a better estimate than the simple multiple linear regression model as we have to deal with relatively less number of data attributes.
