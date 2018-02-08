@@ -19,8 +19,7 @@ We will employ two methods of Multiple Linear regression
 
 The model looks into p value everytime for each attribute and if the p value for a particular attribute is greater than significant value (Here in this case is 0.05), it is deleted and the model is trained again.The process is continued unless we attain the data which has attributes having p value less than significant threshold.
 
-A good document on p value selection is given below 
-[a link](https://www.wikihow.com/Calculate-P-Value)
+A good document on p value selection is given [here](https://www.wikihow.com/Calculate-P-Value)
 
 
 The codes are written in the file -- MultipleLInearRegression.py
